@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "375619138888",
+    "project_id": "ridingapp-d00ae",
+    "storage_bucket": "ridingapp-d00ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375619138888:android:8ac391a758bd083731ef7d",
+        "android_client_info": {
+          "package_name": "com.john.student_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375619138888-hnm6iqpj8dtt1nkjp3vs0ft4mode1bgg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.john.student_project",
+            "certificate_hash": "75802b40099b1b1cb55a9ce9e143ee16b6b98a9b"
+          }
+        },
+        {
+          "client_id": "375619138888-li7uhccbsn0jv99m703kn39k9clfjs0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjRLpZvl6IbBknh3rCFtZpqDOJwFWGkho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375619138888-li7uhccbsn0jv99m703kn39k9clfjs0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
